@@ -16,11 +16,11 @@ const Sidebar = () => (
       <img className="sub-logo" src={LogoSubtitle} alt="bendi" />
     </Link>
     <nav>
-      <NavLink exaxt="true" activeClassName="active" to="/">
+      <NavLink exact="true" activeClassName="active" to="/">
         <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
       </NavLink>
       <NavLink
-        exaxt="true"
+        exact="true"
         activeClassName="active"
         className="about-link"
         to="/about"
@@ -28,7 +28,7 @@ const Sidebar = () => (
         <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
       </NavLink>
       <NavLink
-        exaxt="true"
+        exat="true"
         activeClassName="active"
         className="contact-link"
         to="/contact"

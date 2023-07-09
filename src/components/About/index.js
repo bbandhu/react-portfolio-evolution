@@ -1,7 +1,20 @@
 import "./index.scss";
+import {
+    faCss3,
+    faGitAlt,
+    faHtml5,
+    faJava,
+    faJsSquare,
+    faPython,
+    faReact,
+  } from '@fortawesome/free-brands-svg-icons';
+  import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+  import Loader from 'react-loaders'
 
-const About = () => {
+
+  const About = () => {
   return (
+    <>
     <div className="container about-page">
       <div className="text-zone">
         <h1>About Me</h1>
@@ -36,8 +49,22 @@ const About = () => {
           Currently, I'm on the lookout for a full-time software engineering
           role.
         </p>
-      </div>
     </div>
+    <div className="icon-container">
+        <FontAwesomeIcon className="icon" icon={faHtml5} color="#F06529" />
+        <FontAwesomeIcon className="icon" icon={faCss3} color="#28A4D9" />
+        <FontAwesomeIcon className="icon" icon={faReact} color="#5ED4F4" />
+        <FontAwesomeIcon className="icon" icon={faJsSquare} color="#EFD81D" />
+        <FontAwesomeIcon className="icon" icon={faGitAlt} color="#EC4D28" />
+        <FontAwesomeIcon className="icon" icon={faJava} color="#DD1B16" /> 
+        <FontAwesomeIcon className="icon" icon={faPython} color="#F0F8FF" />
+
+      </div>
+      </div>
+      <Loader type="pacman" />
+
+</>
+
   );
 };
 

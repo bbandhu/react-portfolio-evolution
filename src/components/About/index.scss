@@ -1,0 +1,40 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .text-zone {
+    width: 100%;
+  }
+  //add icons to right side of about page
+  
+  .icon-container {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    flex: 45px;
+    justify-content: space-between;
+    align-items: right;
+    height:100%;
+
+  }
+  
+  .icon {
+    font-size: 3rem;
+  }
+
+  .loader{
+
+    display:block;
+    position:absolute;
+    left: 0;
+    right:0;
+    margin: auto;
+    top:0;
+    bottom:0;
+    width:50px;
+    height: 50px;
+    animation: fadeOut 1s forwards;
+  }
