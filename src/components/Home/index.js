@@ -7,17 +7,17 @@ const Home = () => {
     <div className="container home-page">
       <div className="text-zone">
         <h1>
-          Hi, <br /> I' m B {/* <img src={LogoTitle} alt="developer" /> */}
+          Hi, <br/> <br /> I' m B {/* <img src={LogoTitle} alt="developer" /> */}
           Bandhavi
           <br />
-          web developer
+          <br />
+            web developer
         </h1>
         <h2>Full stack developer / SDET </h2>
-        <Link to="/contact" className="falt-button">
+        <Link to="/contact" className="flat-button">
           CONTACT ME
         </Link>
       </div>
-      <h1>Home</h1>
     </div>
   );
 };
