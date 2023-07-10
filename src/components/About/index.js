@@ -12,6 +12,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Loader from "react-loaders";
 import profilePic from "../../assets/images/profile-pic.jpg";
 
+// Defining the About component
+
 const About = () => {
   return (
     <>
@@ -56,6 +58,8 @@ const About = () => {
             organization.
           </p>
         </div>
+        {/* // The section that contains the icons */}
+
         <div className="icon-container">
           <FontAwesomeIcon className="icon" icon={faHtml5} color="#F06529" />
           <FontAwesomeIcon className="icon" icon={faCss3} color="#28A4D9" />

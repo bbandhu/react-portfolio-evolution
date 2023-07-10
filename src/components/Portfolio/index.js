@@ -39,7 +39,7 @@ const portfolioData = [
     {
       cover: image5,
       title: "ORM Ecommerse BackEnd",
-      description: "Nodejs, Express, Sequelize, MySq, Moment.js, Nodemon, Insomnia",
+      description: "Nodejs, Express, Sequelize, MySql, Nodemon, Insomnia",
       url: "https://github.com/bbandhu/ORM-E-commerce"
     },
   
