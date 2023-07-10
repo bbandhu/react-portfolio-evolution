@@ -3,7 +3,9 @@
 
 ## Description
 
-This is a personal portfolio website developed by Bandhavi Bendi. The website showcases her skills, recent projects, and provides ways to get in touch with her.
+This is the personal portfolio website. It is a comprehensive presentation showing my professional journey, showcasing  skills, projects that I worked on.
+
+The website features a captivating and intuitive user interface, allowing visitors to easily navigate through the different sections. It uses modern web technologies and tools to ensure a smooth and interactive user experience.
 
 
 ## Table of Contents
@@ -27,15 +29,13 @@ This is a personal portfolio website developed by Bandhavi Bendi. The website sh
 - Open your preferred web browser and visit: http://localhost:3000
 
 ## TechnologiesUsed
-- React.js
-- Node.js
-- SCSS
-- Material UI
-- FontAwesome Icons
-- React Loaders
-- Animate css
-- Emailjs library
-- SVG logo maker for name logo on navbar - https://github.com/bbandhu/SVG-Logo-Maker
+- **React.js**: A JavaScript library for building user interfaces.
+- **Node.js**: JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **SCSS**: A preprocessor scripting language that is interpreted into Cascading Style Sheets (CSS).
+- **Material UI**: A popular React UI framework for faster and easier web development.
+- **FontAwesome Icons**: Provides a wide range of scalable vector icons.
+- **React Loaders**: Lightweight wrapper around Loaders.css.
+- **SVG logo maker**: Name logo on navbar - https://github.com/bbandhu/SVG-Logo-Maker
 
 
 ## contributors
