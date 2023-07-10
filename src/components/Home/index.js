@@ -14,7 +14,7 @@ const Home = () => {
           Bandhavi
           <br />
           <br />
-            web developer
+            A software developer with a passion for learning and creating.
         </h1>
         <h2>Full stack developer / SDET </h2>
         <Link to="/contact" className="flat-button">

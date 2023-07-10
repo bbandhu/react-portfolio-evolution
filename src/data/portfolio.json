@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/weatherDashboard.png",
+            "title": "Weather Dashboard",
+            "description": "Js, Jquery, Bootstrap, Moment.js, OpenWeather API",
+            "url": "https://github.com/bbandhu/Weather-Dashboard"
+        },
+        {
+            "cover": "/portfolio/1/WorkoutApp.png",
+            "title": "Fitness Tracker",
+            "description": "Js, Jquery, Tailwind CSS",
+            "url": "https://github.com/EvelynMS1/workout-routine-app"
+        },
+        {
+            "cover": "/portfolio/1/wanderlist.png",
+            "title": "Wanderlist",
+            "description": "Bootstrap, jQuery, Node, Express, MySQL, Sequelize, Handlebar",
+            "url": "https://github.com/JDempe/WanderList"
+        },
+        {
+            "cover": "/portfolio/1/SocialNetworkApi.png",
+            "title": "Social Network API",
+            "description": "Nodejs, Express, Sequelize,MySql, Moment.js, Nodemon, Insomnia",
+            "url": "https://github.com/bbandhu/Social-Network-API"
+        },
+        {
+            "cover": "/portfolio/1/ORMEcommerce.png",
+            "title": "ORM Ecommerce-BackEnd",
+            "description": "Nodejs, Express, Sequelize, MongoDB, Mongoose, Moment.js, Nodemon, Insomnia",
+            "url": "https://github.com/bbandhu/ORM-E-commerce"
+        }
+    ]
+}
