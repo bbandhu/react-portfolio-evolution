@@ -5,7 +5,7 @@ import Layout from './components/Layout'; // Importing the Layout component
 import Home from './components/Home'; // Importing the Home component
 import About from './components/About'; // Importing the About component
 import Contact from './components/Contact'; // Importing the Contact component
-import Portfolio from './components/Portfolio'; // Importing the Portfolio component
+import Portfolio from '../components/Portfolio'; // Importing the Portfolio component
 
 // Defining the App component
 function App() {
