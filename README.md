@@ -58,6 +58,8 @@ Bandhavi Bendi
 
 
 Screenshots
-![Image]()
-![Image]()
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc1.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc2.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc3.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc4.png)
 
