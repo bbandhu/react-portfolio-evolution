@@ -34,7 +34,7 @@ const Contact = () => {
                 </li>
               </ul>
               <Button variant="contained" color="primary" type="submit">
-                Submit
+                Send
               </Button>
             </form>
           </div>

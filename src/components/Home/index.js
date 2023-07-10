@@ -7,6 +7,8 @@ const Home = () => {
   return (
     <>
     <div className="container home-page">
+    <div className="background-image">
+
 
       <div className="text-zone">
         <h1>
@@ -21,6 +23,7 @@ const Home = () => {
           CONTACT ME
         </Link>
       </div>
+    </div>
     </div>
     <Loader type="pacman" />
     </>
