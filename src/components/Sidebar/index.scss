@@ -1,6 +1,6 @@
 .nav-bar {
     background: #181818;
-    width: 80px;
+    width: 90px;
     height: 100%;
     position: absolute;
     top: 0;
@@ -93,6 +93,12 @@
       a.portfolio-link {
         &:after {
           content: 'PORTFOLIO';
+        }
+      }
+
+      a.resume-link {
+        &:after {
+          content: 'RESUME';
         }
       }
   

@@ -6,6 +6,7 @@ import Home from './components/Home'; // Importing the Home component
 import About from './components/About'; // Importing the About component
 import Contact from './components/Contact'; // Importing the Contact component
 import Portfolio from './components/Portfolio'; // Importing the Portfolio component
+import Resume from './components/Resume'; // Importing the resume component
 
 // Defining the App component
 function App() {
@@ -23,6 +24,8 @@ function App() {
         <Route path="contact" element={<Contact />} />
         {/* // The Portfolio component will be shown when path is "/portfolio" */}
         <Route path="portfolio" element={<Portfolio />} />
+        {/* // The resume component will be shown when path is "/resume" */}
+        <Route path="resume" element={<Resume />} />
       </Route>
     </Routes>
   );
