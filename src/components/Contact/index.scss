@@ -1,8 +1,8 @@
 .contact-form {
-    width: 100%;
-    margin-top: 20px;
+  width: 100%;
+  margin-top: 20px;
 
-ul {
+  ul {
     padding: 0;
     margin: 0;
 
@@ -35,7 +35,7 @@ ul {
 
   input[type='text'],
   input[type='email'] 
-  
+
   {
     width: 100%;
     border: 0;
@@ -49,19 +49,20 @@ ul {
 
   }
 
+ 
+
+
   textarea {
     width: 100%;
     border: 0;
     background: #115173;
-    height: 50px;
     font-size: 16px;
     color: #fff;
     padding: 20px;
     box-sizing: border-box;
-    min-height: 150px;
-
-
+    height: auto; // Added to auto adjust height
   }
+
   Button {
     color: #ffd700;
     font-size: 11px;
@@ -69,12 +70,14 @@ ul {
     text-decoration: none;
     padding: 8px 10px;
     border: 1px solid #ffd700;
-    float: left;
     border-radius: 4px;
     background: 0 0;
     text-transform: uppercase;
-    float: right;
     text-align: center;
     margin-right: 10px;
+    margin-top: 10px; 
+    clear: both; 
+    float: none; 
+    display: block; 
   }
 }
