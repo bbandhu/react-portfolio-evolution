@@ -22,12 +22,12 @@ const portfolioData = [
     url: "https://github.com/JDempe/WanderList"
   },
 
-  {
-    cover: image2,
-    title: "Fitness Tracker",
-    description: "Js, Jquery, Bulma CSS, HTML",
-    url: "https://github.com/EvelynMS1/workout-routine-app"
-  },
+  // {
+  //   cover: image2,
+  //   title: "Fitness Tracker",
+  //   description: "Js, Jquery, Bulma CSS, HTML",
+  //   url: "https://github.com/EvelynMS1/workout-routine-app"
+  // },
 
   {
     cover: image4,
