@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './index.scss';
 import { Link } from 'react-router-dom';
 import Loader from 'react-loaders';
-import { Button, TextField, FormHelperText } from '@material-ui/core';
+import { Button, TextField, FormHelperText } from '@mui/material';
 
 const Contact = () => {
   // Form state
