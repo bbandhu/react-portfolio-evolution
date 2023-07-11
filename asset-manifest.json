@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-evolution/static/css/main.bf672f17.css",
+    "main.js": "/react-portfolio-evolution/static/js/main.d12fec35.js",
+    "static/js/787.0e6c9168.chunk.js": "/react-portfolio-evolution/static/js/787.0e6c9168.chunk.js",
+    "static/media/wanderlist.png": "/react-portfolio-evolution/static/media/wanderlist.e55e93b4458893bb032d.png",
+    "static/media/WorkoutApp.png": "/react-portfolio-evolution/static/media/WorkoutApp.bba28b7d2c71ee6617e0.png",
+    "static/media/profile-pic.jpg": "/react-portfolio-evolution/static/media/profile-pic.21043dc8a45c098b33b9.jpg",
+    "static/media/Background.jpg": "/react-portfolio-evolution/static/media/Background.ac013b95bdc8c202fd42.jpg",
+    "static/media/SocialNetworkApi.png": "/react-portfolio-evolution/static/media/SocialNetworkApi.ed326ea1326730c8d177.png",
+    "static/media/Ecommerce-BackEnd.png": "/react-portfolio-evolution/static/media/Ecommerce-BackEnd.e85473e5668faed0d472.png",
+    "static/media/BandhaviBResume.pdf": "/react-portfolio-evolution/static/media/BandhaviBResume.251a50175c0aff2901ac.pdf",
+    "static/media/weatherDashboard.png": "/react-portfolio-evolution/static/media/weatherDashboard.3005077438fc74146700.png",
+    "static/media/logo-b.png": "/react-portfolio-evolution/static/media/logo-b.d55544313a2f804522ad.png",
+    "static/media/logo_sub.png": "/react-portfolio-evolution/static/media/logo_sub.71a80ad75c08b54f729b.png",
+    "static/media/helvetica-neu.ttf": "/react-portfolio-evolution/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio-evolution/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-evolution/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio-evolution/index.html",
+    "main.bf672f17.css.map": "/react-portfolio-evolution/static/css/main.bf672f17.css.map",
+    "main.d12fec35.js.map": "/react-portfolio-evolution/static/js/main.d12fec35.js.map",
+    "787.0e6c9168.chunk.js.map": "/react-portfolio-evolution/static/js/787.0e6c9168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf672f17.css",
+    "static/js/main.d12fec35.js"
+  ]
+}
