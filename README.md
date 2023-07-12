@@ -7,6 +7,8 @@ This is the personal portfolio website. It is a comprehensive presentation showi
 
 The website features a captivating and intuitive user interface, allowing visitors to easily navigate through the different sections. It uses modern web technologies and tools to ensure a smooth and interactive user experience.
 
+## Deployed application link 
+https://bbandhu.github.io/react-portfolio
 
 ## Table of Contents
 
