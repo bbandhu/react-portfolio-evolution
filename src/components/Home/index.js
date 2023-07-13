@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import LogoTitle from "../../assets/images/logo-b.png";
 import "./index.scss";
-import Loader from 'react-loaders'
 
 const Home = () => {
   return (
@@ -25,7 +24,6 @@ const Home = () => {
       </div>
     </div>
     </div>
-    <Loader type="pacman" />
     </>
   );
 };

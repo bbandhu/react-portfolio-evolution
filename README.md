@@ -7,7 +7,7 @@ This is the personal portfolio website. It is a comprehensive presentation showi
 
 The website features a captivating and intuitive user interface, allowing visitors to easily navigate through the different sections. It uses modern web technologies and tools to ensure a smooth and interactive user experience.
 
-## Deployed application link 
+## Deployed Application
 https://bbandhu.github.io/react-portfolio
 
 ## Table of Contents
@@ -55,6 +55,7 @@ Bandhavi Bendi
 * About page
 * Portfolio page- Recent Projects section with clickable project links
 * Contact page - Send Message is in progress
+* Resume page - Send Message is in progress
 * GitHub and LinkedIn clikable links on navbar/sidebar
 
 
@@ -62,4 +63,10 @@ Bandhavi Bendi
 Screenshots
 ![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc1.png)
 ![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc2.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc3.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc4.png)
+![Image](https://github.com/bbandhu/react-portfolio-evolution/blob/main/src/assets/images/sc5.png)
+
+
+
 

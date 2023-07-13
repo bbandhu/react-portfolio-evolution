@@ -9,7 +9,6 @@ import {
   faReact,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Loader from "react-loaders";
 import profilePic from "../../assets/images/profile-pic.jpg";
 
 // Defining the About component
@@ -70,7 +69,6 @@ const About = () => {
           <FontAwesomeIcon className="icon" icon={faPython} color="#F0F8FF" />
         </div>
       </div>
-      <Loader type="pacman" />
     </>
   );
 };

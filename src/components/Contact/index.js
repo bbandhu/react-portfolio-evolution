@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './index.scss';
 import { Link } from 'react-router-dom';
-import Loader from 'react-loaders';
 import { Button, TextField, FormHelperText } from '@mui/material';
 
 const Contact = () => {
@@ -95,7 +94,6 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <Loader type="pacman" />
     </>
   );
 };

@@ -1,10 +1,10 @@
 import './index.scss';
 import { Card, CardMedia, CardContent, Typography, Button } from '@mui/material';
 import image1 from '../../assets/images/weatherDashboard.png';
-import image2 from '../../assets/images/WorkoutApp.png';
+import image2 from '../../assets/images/sc2.png';
 import image3 from '../../assets/images/wanderlist.png';
-import image4 from '../../assets/images/SocialNetworkApi.png';
-import image5 from '../../assets/images/Ecommerce-BackEnd.png';
+import image4 from '../../assets/images/ODM.png';
+import image5 from '../../assets/images/ORM.png';
 
 // list of projects
 const portfolioData = [
@@ -22,12 +22,12 @@ const portfolioData = [
     url: "https://github.com/JDempe/WanderList"
   },
 
-  // {
-  //   cover: image2,
-  //   title: "Fitness Tracker",
-  //   description: "Js, Jquery, Bulma CSS, HTML",
-  //   url: "https://github.com/EvelynMS1/workout-routine-app"
-  // },
+  {
+    cover: image2,
+    title: "React Portfolio",
+    description: "React, Material UI",
+    url: "https://github.com/bbandhu/react-portfolio-evolution"
+  },
 
   {
     cover: image4,
