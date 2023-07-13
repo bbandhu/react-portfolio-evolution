@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-portfolio-evolution/static/css/main.d72ab61c.css",
-    "main.js": "/react-portfolio-evolution/static/js/main.b7e30514.js",
+    "main.css": "/react-portfolio-evolution/static/css/main.fd668a93.css",
+    "main.js": "/react-portfolio-evolution/static/js/main.633bc3c1.js",
     "static/js/787.b7120dc3.chunk.js": "/react-portfolio-evolution/static/js/787.b7120dc3.chunk.js",
     "static/media/wanderlist.png": "/react-portfolio-evolution/static/media/wanderlist.e55e93b4458893bb032d.png",
-    "static/media/WorkoutApp.png": "/react-portfolio-evolution/static/media/WorkoutApp.bba28b7d2c71ee6617e0.png",
     "static/media/profile-pic.jpg": "/react-portfolio-evolution/static/media/profile-pic.21043dc8a45c098b33b9.jpg",
     "static/media/Background.jpg": "/react-portfolio-evolution/static/media/Background.ac013b95bdc8c202fd42.jpg",
-    "static/media/SocialNetworkApi.png": "/react-portfolio-evolution/static/media/SocialNetworkApi.ed326ea1326730c8d177.png",
-    "static/media/Ecommerce-BackEnd.png": "/react-portfolio-evolution/static/media/Ecommerce-BackEnd.e85473e5668faed0d472.png",
+    "static/media/sc2.png": "/react-portfolio-evolution/static/media/sc2.0d4362380e50e6c28b72.png",
+    "static/media/ORM.png": "/react-portfolio-evolution/static/media/ORM.9c1c15f6746852bfb0f3.png",
+    "static/media/ODM.png": "/react-portfolio-evolution/static/media/ODM.47d92780b296a27ab0b3.png",
     "static/media/BandhaviBResume.pdf": "/react-portfolio-evolution/static/media/BandhaviBResume.251a50175c0aff2901ac.pdf",
     "static/media/weatherDashboard.png": "/react-portfolio-evolution/static/media/weatherDashboard.3005077438fc74146700.png",
     "static/media/logo-b.png": "/react-portfolio-evolution/static/media/logo-b.d55544313a2f804522ad.png",
@@ -17,12 +17,12 @@
     "static/media/LaBelleAurore.woff2": "/react-portfolio-evolution/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-evolution/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/react-portfolio-evolution/index.html",
-    "main.d72ab61c.css.map": "/react-portfolio-evolution/static/css/main.d72ab61c.css.map",
-    "main.b7e30514.js.map": "/react-portfolio-evolution/static/js/main.b7e30514.js.map",
+    "main.fd668a93.css.map": "/react-portfolio-evolution/static/css/main.fd668a93.css.map",
+    "main.633bc3c1.js.map": "/react-portfolio-evolution/static/js/main.633bc3c1.js.map",
     "787.b7120dc3.chunk.js.map": "/react-portfolio-evolution/static/js/787.b7120dc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d72ab61c.css",
-    "static/js/main.b7e30514.js"
+    "static/css/main.fd668a93.css",
+    "static/js/main.633bc3c1.js"
   ]
 }
