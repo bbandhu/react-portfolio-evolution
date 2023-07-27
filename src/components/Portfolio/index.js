@@ -5,6 +5,7 @@ import image2 from '../../assets/images/sc2.png';
 import image3 from '../../assets/images/wanderlist.png';
 import image4 from '../../assets/images/ODM.png';
 import image5 from '../../assets/images/ORM.png';
+import image6 from '../../assets/images/Snapshot.png';
 
 // list of projects
 const portfolioData = [
@@ -41,6 +42,13 @@ const portfolioData = [
       title: "ORM Ecommerse BackEnd",
       description: "Nodejs, Express, Sequelize, MySql, Nodemon, Insomnia",
       url: "https://github.com/bbandhu/ORM-E-commerce"
+    },
+
+    {
+      cover: image6,
+      title: "SnapShot",
+      description: "React, Material UI,Apollo GraphQL, Stripe, MongoDB",
+      url: "https://github.com/JDempe/Snapshot"
     },
   
  

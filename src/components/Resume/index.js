@@ -3,7 +3,7 @@ import './index.scss';
 import Pdf from '../../assets/resume/BandhaviBResume.pdf';
 
 const Resume = () => {
-    const skills = ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js', 'Python', 'Java', 'WebdriverIO', 'Cypress.IO', 'Graphql', 'Protarctor', 'REST API', 'AWS', 'Heroku'];
+    const skills = ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js', 'Python', 'Java', 'WebdriverIO', 'Cypress.IO', 'Graphql', 'Protractor', 'REST API', 'AWS', 'Heroku'];
 
     return (
         <div className="container resume-page">
