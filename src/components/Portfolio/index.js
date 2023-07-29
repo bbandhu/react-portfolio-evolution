@@ -50,8 +50,6 @@ const portfolioData = [
       description: "React, Material UI,Apollo GraphQL, Stripe, MongoDB",
       url: "https://github.com/JDempe/Snapshot"
     },
-  
- 
 ];
 
 const Portfolio = () => {
