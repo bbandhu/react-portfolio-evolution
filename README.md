@@ -9,8 +9,7 @@ The website features a captivating and intuitive user interface, allowing visito
 
 ## Deployed Application
 
-https://bbandhu.github.io/react-portfolio
-
+https://bbandhu.github.io/react-portfolio-evolution/
 ## Table of Contents
 
 - [Installation](#installation)
