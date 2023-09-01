@@ -6,7 +6,7 @@
 
 .top-tags {
   top: 35px;
-  position: absolute; // Explicitly mentioned for clarity.
+  position: absolute; 
 }
 
 .tags {
@@ -33,7 +33,7 @@
   margin: 0 auto;
   z-index: 1;
   transform-style: preserve-3d;
-  animation: fadeIn 1s forwards 1s; // Merged animation properties.
+  animation: fadeIn 1s forwards 1s; 
 }
 
 .about-page, .contact-page, .resume-page {

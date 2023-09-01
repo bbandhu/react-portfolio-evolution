@@ -61,7 +61,7 @@ const Contact = () => {
         <div className="text-zone">
           <h1>Contact me</h1>
           <p>
-            I am currently looking for a full-time software engineering role. If you have any questions or would like to connect, please feel free to reach out to me via email or LinkedIn.
+          I am currently exploring full-time opportunities in the software engineering and quality assurance domains. With extensive experience and a passion for technology, I am eager to contribute to a dynamic organization. If you have any questions or would like to connect, please feel free to reach out to me via email or LinkedIn.
           </p>
           <div className="contact-form">
             <form onSubmit={handleSubmit}>

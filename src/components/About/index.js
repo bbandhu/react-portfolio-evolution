@@ -47,15 +47,13 @@ const About = () => {
             scalable full-stack applications.
           </p>
           <p>
-            As an enthusiastic learner, I am always eager to explore new
-            opportunities to expand my skills and knowledge. I thrive in
-            collaborative team environments, working closely with others to
-            achieve shared objectives. Currently, I am actively seeking a
-            challenging and rewarding full-time software engineering role where
-            I can leverage my extensive experience, technical proficiency, and
-            passion for quality to contribute to the success of a dynamic
-            organization.
-          </p>
+  As an enthusiastic learner with a decade of experience in software quality engineering,
+   I am eager to explore new opportunities that will allow me to apply my extensive technical skills 
+   and leadership experience. With a proven track record in developing robust test automation frameworks,
+    CI/CD implementation, and team mentorship,
+     I am particularly interested in stepping into a Quality Assurance Manager role where I can drive quality initiatives and lead a dynamic team. 
+     I thrive in collaborative environments and am committed to contributing to the success of any organization I join.
+</p>
         </div>
         {/* // The section that contains the icons */}
 
